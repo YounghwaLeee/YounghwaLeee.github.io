@@ -52,7 +52,7 @@ content:
     content:
       - layout: top-middle
         title: leaf cafe Project
-        link: github.com/leafcafe_project
+        link: github.com/YounghwaLeee/leafcafe_project
         # link_text: Project Website
         additional_links:
           - title: sproogen/modern-resume-theme
