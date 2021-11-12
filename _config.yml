@@ -46,8 +46,8 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: leaf cafe Project
-        link: github.com/YounghwaLeee/leafcafe_project
+        title: COVID-19
+        link: github.com/YounghwaLeee/covid_semiproject
         # link_text: Project Website
         additional_links:
           - title: sproogen/modern-resume-theme
