@@ -9,10 +9,8 @@ version: 2
 name: Lee YoungHwa
 title: About me
 email: lyh4671@naver.com
-blog: https://blog.naver.com/lyh4671
-website: www.github.com/YounghwaLeee/
+website: https://blog.naver.com/lyh4671
 
-# Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
