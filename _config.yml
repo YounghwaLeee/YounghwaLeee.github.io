@@ -57,8 +57,7 @@ content:
         quote: >
           Covid-19 GUI Project
         description: | # this will include new lines to allow paragraphs
-          covid-19가 전국민의 일상에 많은 영향을 끼치고, 백신수급으로 인해 힘들어 할 시기에 백신 종류를 선택하여 맞을 수 있는 날을 희망하며 프로젝트로 구현하게 되었습니다. 코로나 관련 백신예약 / 진료소 검색 등의 기능을 구현하였습니다.
-
+          <mark>JAVA</mark>를 기반으로 GUI 프로젝트 <mark>Oracle Database</mark>와 연결.
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
