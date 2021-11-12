@@ -74,7 +74,7 @@ content:
         quote: >
           Coffee Franchise Management Web Service
         description: | # this will include new lines to allow paragraphs
-          <mark>Spring MVC</mark>를 기본 기술로 커피 프렌차이즈 홈페이지 제작. DB는 연결은 <mark>MyBatis</mark>로  <mark>Oracle Database</mark>와 연결
+          <mark>Spring MVC</mark>를 기본 기술로 커피 프렌차이즈 홈페이지 제작. DB는 연결은 <mark>MyBatis</mark>로  <mark>Oracle Database</mark>와 연결.
           front-end는 <mark>HTML5</mark><mark>CSS</mark><mark>JavaScript</mark>를 사용하였습니다. <mark></mark>
 
   - title: Experience # Title for the section
