@@ -40,7 +40,8 @@ github_username: YounghwaLeee
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.jpg
-about_content: 안녕하세요
+about_content: 안녕하세요 풀스택 개발자 입니다. 
+엔터쳐도 되나요
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
@@ -76,8 +77,7 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          세미
-                  description: | # this will include new lines to allow paragraphs
+        
           I started this project as a way if learning <mark>JAVA</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
