@@ -53,15 +53,15 @@ content:
         additional_links:
           - title: sproogen/modern-resume-theme
             icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+            url: github.com/YounghwaLeee/covid_semiproject
 
         quote: >
           This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-         covid-19가 전국민의 일상에 많은 영향을 끼치고, 백신수급으로 인해 힘들어 할 시기에 백신 종류를 선택하여 맞을 수 있는 날을 희망하며 프로젝트로 구현하게 됨. 코로나 관련 백신예약 / 진료소 검색 등의 기능을 제공함
+         covid-19가 전국민의 일상에 많은 영향을 끼치고, 백신수급으로 인해 힘들어 할 시기에 백신 종류를 선택하여 맞을 수 있는 날을 희망하며 프로젝트로 구현하게 되었습니다. 코로나 관련 백신예약 / 진료소 검색 등의 기능을 구현하였습니다.
 
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
+  - title: Projects 
+    layout: list 
     content:
       - layout: top-middle
         title: leaf cafe Project
@@ -70,13 +70,17 @@ content:
         additional_links:
           - title: sproogen/modern-resume-theme
             icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-        
-          I started this project as a way if learning <mark>JAVA</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+            url: github.com/YounghwaLeee/leafcafe_project
+  
+        quote: > 
+            Coffee Franchise Management Web Service
+           
+       description: | 
+         <mark>Spring MVC</mark>를 기본 기술로 커피 프렌차이즈 홈페이지 제작하였습니다. DB는 연결은 <mark>MyBatis</mark>로  <mark>Oracle</mark>을 연결하였습니다.
+         <mark></mark>
+         
+         
+
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
