@@ -41,7 +41,6 @@ github_username: YounghwaLeee
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: 안녕하세요 풀스택 개발자 입니다. 
-엔터쳐도 되나요
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
