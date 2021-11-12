@@ -62,7 +62,7 @@ content:
   - title: Projects 
     layout: list 
     content:
-      - layout: top-middle
+      -layout: top-middle
         title: leaf cafe Project
         link: github.com/YounghwaLeee/leafcafe_project
         # link_text: Project Website
