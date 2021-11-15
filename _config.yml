@@ -74,7 +74,7 @@ content:
           Coffee Franchise Management Web Service
         description: | # this will include new lines to allow paragraphs
           <mark>Spring MVC</mark>를 기본 기술로 커피 프렌차이즈 홈페이지 제작. DB는 연결은 <mark>MyBatis</mark>로  <mark>Oracle Database</mark>와 연결.
-          front-end는 <mark>HTML5</mark><mark>CSS</mark><mark>JavaScript</mark>를 사용. <mark></mark>
+          front-end는 <mark>HTML5</mark><mark>CSS</mark><mark>JavaScript</mark>를 사용.
           ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/82207938/141738904-904d3f87-6d0c-445e-a0f8-db5f84adffa5.gif)
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
