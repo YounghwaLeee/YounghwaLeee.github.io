@@ -53,11 +53,11 @@ content:
           - title: github.com/YounghwaLeee/covid_semiproject
             icon: fab fa-github
             url: github.com/YounghwaLeee/covid_semiproject
-
-        quote: >
-          Covid-19 GUI Project
+        sub_title: COVID-19 JAVA GUI Project
+        caption: 2021.0721 ~ 2021.0803
         description: | # this will include new lines to allow paragraphs
-          <mark>JAVA</mark>를 기반으로 GUI 프로젝트 <mark>Oracle Database</mark>와 연결.
+          - 코로나 백신예약, 진료소 검색
+          - <mark>java</mark>, <mark>Oracle Datebase</mark>연결
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
