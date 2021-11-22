@@ -40,7 +40,11 @@ github_username: YounghwaLeee
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.jpg
-about_content: 안녕하세요 풀스택 개발자 입니다.
+about_content: 안녕하세요 풀 스택 예비 개발자 이영화 입니다.
+  JAVA를 주 언어로 공부 하였으며 이를 기반으로 넓고 깊게 실력을 키워나갈 것입니다.
+  기술을 습득하는 과정에 있어 호기심만 가지는게 아닌 실제프로젝트에 적용하며 좋은 코드를</br>
+  만들기 위해 꾸준히 공부하는 개발자가 되겠습니다.
+
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
